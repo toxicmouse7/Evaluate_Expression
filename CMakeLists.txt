@@ -3,4 +3,4 @@ project(Evaluate_Expression)
 
 set(CMAKE_CXX_STANDARD 20)
 
-add_executable(Evaluate_Expression main.cpp Evaluator.cpp Evaluator.h)
+add_executable(Evaluate_Expression Evaluator.cpp Evaluator.h)
